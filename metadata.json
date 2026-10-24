@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI",
+  "description": "AI-Powered Personalized Learning Platform for SDG 4 (Quality Education) and SDG 10 (Reduced Inequalities) featuring diagnostic quizzes, knowledge gap analysis, adaptive recommendations, and bilingual English & Malayalam learning assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
